@@ -1,0 +1,65 @@
+*{
+    margin-top: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+}
+.items{
+    margin-left:15%;
+    margin-right:5%;
+}
+
+.item_product{
+    width: 20%;
+    float: left;
+    border:solid 1px gainsboro;
+    margin: 3px 3px;
+}
+div h2{
+    margin-bottom: 15px;
+    margin-left: 15%;
+    font-size: 20px;
+    font-weight: bold;
+}
+h3{
+    text-align: left;
+    margin-bottom: 7px;
+    margin-left: 4px;
+}
+.newprice{
+    color: rgb(0, 201, 17);
+    float: left;
+    font-weight: 1000;
+    margin: 0px 10px;
+}
+
+.oldprice{
+    color: red;
+    float: left;
+    font-weight: 700;
+    text-decoration-line:line-through ;
+}
+.item_product button{
+    background-color:dodgerblue;
+    color: white;
+    padding: 2px 40px;
+    margin: 5px 2px 5px 8px;
+    
+}
+.fa-heart{
+    color: dodgerblue;
+    border: solid 1px dodgerblue;
+    padding:4px 4px;
+}
+i{
+    color: rgb(255, 255, 255);
+    border: solid 1px dodgerblue;
+    padding:2px 2px;
+}
+.iphone img{
+    width: 50%;
+    margin-left: 25%;
+}
+.clearfix{
+    clear: left;
+}
